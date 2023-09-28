@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mytetradoc>
 <root>
- <format version="1" subversion="1" />
+ <format version="1" subversion="2"/>
  <content>
-  <node id="1300000000aaaaaaaaa1" name="Rename me" >
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
    <recordtable>
-    <record dir="1300000000aaaaaaaaa2" url="" tags="MyTetra, Qt" author="" ctime="20081210124656" id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" file="text.html" />
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1695925802r41vehflo4" name="15 суперполезных горячих клавиш в Windows 11. Вы будете пользоваться ими каждый день и жалеть, что не знали о них раньше" author="" url="https://www.iguides.ru/main/os/15_superpoleznykh_goryachikh_klavish_v_windows_11/" tags="" ctime="20230928213002" dir="16959258022wbng04pab" file="text.html"/>
+    <record id="1695925835jaf15o7b7z" name="Удаление файла или папки в Python" author="" url="https://sky.pro/media/udalenie-fajla-ili-papki-v-python/" tags="" ctime="20230928213035" dir="1695925835pl2dzb0l8z" file="text.html"/>
+    <record id="169592586230cy5x82re" name="Главная страница » Вопросы с собеседования » Функции » Удаление файла — пошаговое руководство" author="" url="https://pythonist.ru/udalenie-fajla-poshagovoe-rukovodstvo/" tags="" ctime="20230928213102" dir="1695925862qym75jvyda" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1695925878bsbg9ws9yj" name="!История"/>
  </content>
 </root>
