@@ -1,12 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
 <root>
-	<format version="1" subversion="2"/>
-	<content>
-		<node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
-			<recordtable>
-				<record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-				<record id="1695926988lqerkrt6f7" name="Как в MyTetra настроить синхронизацию через интернет" author="" url="https://webhamster.ru/site/page/index/articles/projectcode/170" tags="" ctime="20230928214948" dir="1695926988jhinvzzb43" file="text.html"/></recordtable>
-		</node>
-		<node crypt="" id="1695925878bsbg9ws9yj" name="!История">
-			<node crypt="" id="1695926197jmdqpp3dhe" name="2023"><node name="Сентябрь" id="16959269880jprpm5zvc"><recordtable><record id="1695926988etnb7ubv4m" name="001" ctime="20230928214948" dir="1695926988esyxckjm42" file="text.html"/></recordtable></node></node>
-		</node>
-	</content></root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1695925878bsbg9ws9yj" name="!История">
+   <node crypt="" id="1695926197jmdqpp3dhe" name="2023">
+    <node crypt="" id="16959269880jprpm5zvc" name="Сентябрь"/>
+   </node>
+  </node>
+ </content>
+</root>
