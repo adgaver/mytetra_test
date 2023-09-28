@@ -9,13 +9,7 @@
    </recordtable>
   </node>
   <node crypt="" id="1695925878bsbg9ws9yj" name="!История">
-   <node crypt="" id="1695926197jmdqpp3dhe" name="2023">
-    <node crypt="" id="1695926197ecdpkmbmvu" name="Сентябрь">
-     <recordtable>
-      <record id="1695926849zxdyfx7emr" name="001" ctime="20230928214729" dir="1695926849khsujhnhvq" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
+   <node crypt="" id="1695926197jmdqpp3dhe" name="2023"/>
   </node>
  </content>
 </root>
