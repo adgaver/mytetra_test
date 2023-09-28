@@ -1,13 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
 <root>
-	<format version="1" subversion="2"/>
-	<content>
-		<node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
-			<recordtable>
-				<record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-				<record id="1695925802r41vehflo4" name="15 суперполезных горячих клавиш в Windows 11. Вы будете пользоваться ими каждый день и жалеть, что не знали о них раньше" author="" url="https://www.iguides.ru/main/os/15_superpoleznykh_goryachikh_klavish_v_windows_11/" tags="" ctime="20230928213002" dir="16959258022wbng04pab" file="text.html"/>
-				<record id="1695925835jaf15o7b7z" name="Удаление файла или папки в Python" author="" url="https://sky.pro/media/udalenie-fajla-ili-papki-v-python/" tags="" ctime="20230928213035" dir="1695925835pl2dzb0l8z" file="text.html"/>
-				<record id="169592586230cy5x82re" name="Главная страница » Вопросы с собеседования » Функции » Удаление файла — пошаговое руководство" author="" url="https://pythonist.ru/udalenie-fajla-poshagovoe-rukovodstvo/" tags="" ctime="20230928213102" dir="1695925862qym75jvyda" file="text.html"/>
-				<record id="169592614659l0dhrz7l" name="8 команд для Python по работе с файлами и файловой системой, которые обязательно нужно знать" author="" url="https://habr.com/ru/companies/selectel/articles/547290/" tags="" ctime="20230928213546" dir="16959261463gpw0dhbr1" file="text.html"/><record id="16959261973ww3bwutsb" name="Как в MyTetra настроить синхронизацию через интернет" author="" url="https://webhamster.ru/site/page/index/articles/projectcode/170" tags="" ctime="20230928213637" dir="1695926197dbzfn80dj7" file="text.html"/></recordtable>
-		</node>
-		<node crypt="" id="1695925878bsbg9ws9yj" name="!История"><node name="2023" id="1695926197jmdqpp3dhe"><node name="Сентябрь" id="1695926197ecdpkmbmvu"><recordtable><record id="1695926197u5t0qbludf" name="001" ctime="20230928213637" dir="1695926197ory4h0ujwq" file="text.html"/></recordtable></node></node></node>
-	</content></root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1695925802r41vehflo4" name="15 суперполезных горячих клавиш в Windows 11. Вы будете пользоваться ими каждый день и жалеть, что не знали о них раньше" author="" url="https://www.iguides.ru/main/os/15_superpoleznykh_goryachikh_klavish_v_windows_11/" tags="" ctime="20230928213002" dir="16959258022wbng04pab" file="text.html"/>
+    <record id="1695925835jaf15o7b7z" name="Удаление файла или папки в Python" author="" url="https://sky.pro/media/udalenie-fajla-ili-papki-v-python/" tags="" ctime="20230928213035" dir="1695925835pl2dzb0l8z" file="text.html"/>
+    <record id="169592586230cy5x82re" name="Главная страница » Вопросы с собеседования » Функции » Удаление файла — пошаговое руководство" author="" url="https://pythonist.ru/udalenie-fajla-poshagovoe-rukovodstvo/" tags="" ctime="20230928213102" dir="1695925862qym75jvyda" file="text.html"/>
+    <record id="169592614659l0dhrz7l" name="8 команд для Python по работе с файлами и файловой системой, которые обязательно нужно знать" author="" url="https://habr.com/ru/companies/selectel/articles/547290/" tags="" ctime="20230928213546" dir="16959261463gpw0dhbr1" file="text.html"/>
+    <record id="16959261973ww3bwutsb" name="Как в MyTetra настроить синхронизацию через интернет" author="" url="https://webhamster.ru/site/page/index/articles/projectcode/170" tags="" ctime="20230928213637" dir="1695926197dbzfn80dj7" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1695925878bsbg9ws9yj" name="!История">
+   <node crypt="" id="1695926197jmdqpp3dhe" name="2023">
+    <node crypt="" id="1695926197ecdpkmbmvu" name="Сентябрь"/>
+   </node>
+  </node>
+ </content>
+</root>
