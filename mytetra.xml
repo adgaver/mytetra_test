@@ -13,7 +13,7 @@
    <node crypt="" id="1695926197jmdqpp3dhe" name="2023">
     <node crypt="" id="16959269880jprpm5zvc" name="Сентябрь">
      <recordtable>
-      <record id="1695927233yq2j6bsjr7" name="001" ctime="20230928215353" dir="16959272334ptmz8oe2m" file="text.html"/>
+      <record id="1695927233yq2j6bsjr7" name="001" author="" url="TEG_URL" tags="TEG_TAGS" ctime="20230928215353" dir="16959272334ptmz8oe2m" file="text.html"/>
      </recordtable>
     </node>
    </node>
